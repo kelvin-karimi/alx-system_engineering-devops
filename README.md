@@ -1,1 +1,1 @@
-(1)Create a script that switches the current user to the user betty. (2)
+use exactly 8 characters for your command
